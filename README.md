@@ -65,7 +65,25 @@ https://www.w3schools.com/html/html_links.asp
 
 a : anchor 
 
+> url (uniform resource locator) : 파일식별자(위치표시), 가장 넓은 의미의 인터넷 주소
+> 인터넷 주소 
+> - IP(internet protocol) : 숫자로 구성된 주소 (192.168.2313) 
+> - Domain Name : www.naver.com / DNS(domain name server)
+> - EX) blog.naver.com/blog/12314567 => URL
 
+### HTML File Paths(경로) 
 
+https://www.w3schools.com/html/html_filepaths.asp
 
-
+절대 vs 상대
+- 경로 위치 표시 방식
+- 경로 표시 기준의 변경 여부
+- 절대 경로 방식
+- ex) 대한민국 서울특별시 서초구 ~동 대호빌딩 803호
+- 출발지 위치에 상관없이 항상 찾아갈 수 있도록 표시
+- ex) 도메인 주소/상세경로 => https://www.naver.com/blog/bimage.jpg
+- 
+- 상대 경로 방식
+- ex) 강남역 11번 출구에서 3분
+- 출발지 위치를 기준으로 표시
+- ex) 상세경로 =>/blog/image.jpg || image.jpg
