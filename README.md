@@ -37,7 +37,7 @@ https://www.w3schools.com/html/html_elements.asp
 
 > html-body-h1 관계
 > 
-> html = body와의 관계- 부모요소 / h1과 관계   - 조상요소
+> html = body와의 관계 - 부모요소 / h1과 관계   - 조상요소
 > 
 > body = h1과 관계    - 부모요소 / html과 관계 - 자식요소
 > 
