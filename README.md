@@ -55,3 +55,6 @@ https://www.w3schools.com/html/html_headings.asp
 
 h1~h6 : 제목태그(h : heading) , h1 = the most important heading
 
+### HTML Paragraph
+
+https://www.w3schools.com/html/html_paragraphs.asp
