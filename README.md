@@ -3,6 +3,7 @@
 ## 참고링크
 
 선생님 작성 (복습) https://github.com/edu-ministori/frontend_08
+선생님 코드 https://codesandbox.io/s/itac-08-0ye9v?file=/index.html
 
 https://www.w3schools.com/
 
