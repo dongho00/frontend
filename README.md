@@ -2,6 +2,8 @@
 
 ## 참고링크
 
+선생님 작성 (복습) https://github.com/edu-ministori/frontend_08
+
 https://www.w3schools.com/
 
 https://codesandbox.io/?from-app=1
