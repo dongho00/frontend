@@ -89,3 +89,14 @@ https://www.w3schools.com/html/html_filepaths.asp
 - ex) 강남역 11번 출구에서 3분
 - 출발지 위치를 기준으로 표시
 - ex) 상세경로 =>/blog/image.jpg || image.jpg
+
+### HTML List
+https://www.w3schools.com/html/html_lists.asp
+
+> 중첩목록(Nested List)=포함되는 목록
+
+### HTML Table
+https://www.w3schools.com/html/html_tables.asp
+
+table generator : https://www.tablesgenerator.com/html_tables
+
